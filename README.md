@@ -4,6 +4,7 @@
 [![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![JS](https://img.shields.io/badge/javascript-%23ff8040.svg?style=for-the-badge&logo=JavaScript&logoColor=ffffff)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 Python Script that rises a Localhost LLM server using [llama.cpp](https://github.com/ggml-org/llama.cpp) on Android.
 
@@ -33,10 +34,10 @@ python server.py
 Then, your service would be published on your local network and will be listening at the `8000` port by default.
 
 ## ⚙️ Project Usage Explanation
-In order to test the service, you can use `test.html`, the LLM's response will appear bellow the textbox.
+In order to test the service, you can use the HTML website client `test.html`, it includes various options and settings to test your local LLM.
 
 ## 💻 Technologies Used
-- Programming Language: [Python](https://www.python.org/)
+- Programming Language: [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)
 - Tested OS: [Android 13 (MAUI)](https://www.android.com/)
 - Libraries: [urllib](https://docs.python.org/es/3/library/urllib.html)
 - Other:
